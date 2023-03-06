@@ -1,0 +1,212 @@
+body {
+    font-family: 'Shantell Sans', cursive;
+    background-color: rgb(34, 35, 36);
+}
+
+.my-nav {
+    padding : 5px 0;
+    background-color: rgb(34, 35, 36);
+}
+
+.my-nav:hover {
+    background-color: black;
+}
+
+.my-nav a:hover {
+    color: whitesmoke;
+}
+
+.my-nav a {
+    color: aqua;
+}
+
+.cover {
+    background-image: url("./images/cover-image.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 80vh;
+}
+
+.school-name {
+    width: 30%;
+    margin-right: auto;
+}
+
+.school-name h1 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.school-name-div {
+    background-color: rgba(256,256,256,0.4);
+    padding: 10px 20px 20px;
+    width: 40vh;
+    border-radius: 10px;
+}
+
+.school-name-text {
+    line-height: 2.5;
+    word-spacing: 0.1em;
+    overflow: auto;
+    text-align: justify;
+    text-indent: 40px;
+}
+
+.my-form {
+    background-color: rgba(256,256,256,0.4);
+    padding: 10px 20px 20px;
+    width: 40%;
+    border-radius: 10px;
+}
+
+.my-form h2 {
+    text-align: center;
+    margin-bottom: 15px;
+    color: rgb(34, 35, 36);
+    font-weight: bold;
+}
+
+.mb-3 .input-setting {
+    border-radius: 10px;
+}
+
+.mb-3 .text-setting {
+    font-size: small;
+    color: rgb(34, 35, 36);
+}
+
+.cover .container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    height: 100%;
+}
+
+.cover .my-form .btn {
+    width: 100%;
+}
+
+.benefit {
+    padding: 50px 0;
+    background-color: rgb(34, 35, 36);
+}
+
+.flex {
+    display: flex;
+    justify-content: space-around;
+    align-items: top;
+}
+
+.flex-item {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: aqua;
+}
+
+.flex-item img {
+    margin-bottom: 10px;
+}
+
+.flex-item-div {
+    margin-top: 37px;
+}
+
+.T1 {
+    font-size: 24px;
+    color: whitesmoke;
+    font-weight: bold;
+    text-align: center;
+}
+
+.T2 {
+    text-align: center;
+}
+
+.icon-adjust {
+    font-size: 80px;
+    margin-bottom: 5px;
+}
+
+.header img {
+    width: 60px;
+    margin: 0 auto 15px;
+    display: block;
+}
+
+.title {
+    font-size: 32px;
+    font-weight: bold;
+    color: rgb(34, 35, 36);
+    text-align: center;
+}
+
+.T3 {
+    font-size:  20px;
+    color: rgb(34, 35, 36);
+    text-align: center;
+}
+
+.blog {
+    background-color: gold;
+    background-size: cover;
+    background-position: center;
+    padding: 30px 0 0;
+}
+
+.recommend-item {
+    text-align: center;
+}
+
+.list-container {
+    list-style: none;
+    padding: 20px 0;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+.list-container .list-item {
+    flex: 0 30%;
+    text-align: center;
+    margin-bottom: 10px;
+    background-color: rgb(34, 35, 36);
+    border-radius: 15px;
+}
+
+.thumb img {
+    width: 100%;
+    border-radius: 15px;
+    max-height: 20vh;
+}
+
+.list-item {
+    color: whitesmoke;
+}
+
+.list-item a{
+    color: whitesmoke;
+}
+
+.list-item:hover{
+    background-color: rgba(34, 35, 36,0.9);
+}
+
+.head_color {
+    font-size: 24px;
+    color: whitesmoke;
+    margin-bottom: 0px;
+    padding: 15px 0px;
+}
+
+.company {
+    padding: 20px 0 0;
+    background-color: rgb(34, 35, 36);
+    color: whitesmoke;
+}
+
+.company p {
+    color: whitesmoke;
+}

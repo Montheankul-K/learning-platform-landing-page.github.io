@@ -1,1 +1,1 @@
-# product-landing-page.github.io
+# online-school-landing-page.github.io
