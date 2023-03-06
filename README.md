@@ -1,1 +1,1 @@
-# online-school-landing-page.github.io
+# online learning platform landing page
